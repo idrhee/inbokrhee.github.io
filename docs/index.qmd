@@ -1,5 +1,5 @@
 ---
-title: "Inbok Rhee"
+title: "Inbok Rheee"
 format: 
   html:
     theme: journal
