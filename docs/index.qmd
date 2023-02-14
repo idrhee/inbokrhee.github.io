@@ -24,7 +24,7 @@ cv <- googlesheets4::read_sheet(cv_url)
 
 ::: columns
 ::: {.column width="30%"}
-<center><a href='https://beamilz.com' target='_blank'> ![](./headshot.jpeg){width="80%" style="border-radius: 50%;"}</center>
+<center><a href='https://inbokrhee.com/' target='_blank'> ![](./headshot.jpeg){width="80%" style="border-radius: 50%;"}</center>
 
 </a>
 
@@ -34,9 +34,9 @@ cv <- googlesheets4::read_sheet(cv_url)
 
 <!-- ### Contact -->
 
-<!-- <center><span style="font-size: 1.5em;"> <a href='https://beamilz.com' target='_blank'><i class="fa fa-home"></i></a> <a href='https://github.com/beatrizmilz' target='_blank'><i class="fa-brands fa-github"></i></a> <a href='mailto:milz.bea@gmail.com'><i class="fa fa-envelope"></i></a> <a href='https://twitter.com/BeaMilz' target='_blank'><i class="fa-brands fa-twitter"></i></a> <a href='https://discourse.curso-r.com/u/beatrizmilz/summary' target='_blank'><i class="fab fa-discourse"></i></a></center> -->
+<center><span style="font-size: 1.5em;"> <a href='https://inbokrhee.com/' target='_blank'><i class="fa fa-home"></i></a> <a href='https://github.com/inbokrhee' target='_blank'><i class="fa-brands fa-github"></i></a> <a href='mailto:inbok.rhee@kdis.ac.kr'><i class="fa fa-envelope"></i></a> <a href='https://twitter.com/inbok_rheez' target='_blank'><i class="fa-brands fa-twitter"></i></a></center>
 
-<!-- </span> -->
+</span>
 
 <!-- Hi! I'm a co-organizer of [R-Ladies São Paulo](https://www.instagram.com/rladiessaopaulo/) since 2018, and I have taught in several meetups and workshops. All the slides are available here: [beamilz.com/talks/](https://beamilz.com/talks/). I'm also a co-organizer of [satRday São Paulo](https://saopaulo2019.satrdays.org/) and [LatinR](https://latin-r.com/). -->
 
