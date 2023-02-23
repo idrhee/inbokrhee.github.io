@@ -2,5 +2,6 @@ project:
   type: website
   output-dir: docs
 
-metadata-files:
-  - _website.yml
+website: 
+  title: "Inbok Rhee"
+  site-url: https://inbokrhee.com/
