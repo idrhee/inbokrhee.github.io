@@ -4,7 +4,7 @@ project:
 
 plugins:
   - quarto-sitemap
-  
-website: 
+
+website:
   title: "Inbok Rhee"
   site-url: "https://inbokrhee.github.io/"

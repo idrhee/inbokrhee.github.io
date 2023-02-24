@@ -1,5 +1,5 @@
 ---
-title: "Inbok Rhee"
+title: "Inbok Rhee / 이인복 / 李仁馥"
 format: 
   html:
     theme: journal
@@ -28,9 +28,9 @@ cv <- googlesheets4::read_sheet(cv_url)
 
 </a>
 
-## Inbok Rhee
+<!-- ## Inbok Rhee -->
 
-## 이인복 / 李仁馥
+<!-- ## 이인복 / 李仁馥 -->
 
 <!-- ### Contact -->
 
