@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+plugins:
+  - quarto-sitemap
+  
 website: 
   title: "Inbok Rhee"
   site-url: "https://inbokrhee.github.io/"
