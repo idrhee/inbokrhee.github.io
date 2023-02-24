@@ -1,5 +1,5 @@
 ---
-title: "Inbok Rhee/이인복/李仁馥"
+title: "Inbok Rhee / 이인복 / 李仁馥"
 format: 
   html:
     theme: journal
