@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 
-website:
-  title: "Inbok Rhee"
-  site-url: "https://inbokrhee.com/"
-  google-analytics: "G-E8DVRS6KHR"
+# website:
+#   title: "Inbok Rhee"
+#   site-url: "https://inbokrhee.com/"
+#   google-analytics: "G-E8DVRS6KHR"
