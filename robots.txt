@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://inbokrhee.com/docs/sitemap.xml
